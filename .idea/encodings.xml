@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/InsurantDataPage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/runners/RunCucumberTest.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/InsurantDataStep.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/PriceOptionStep.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/ProductDataStep.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/SendQuoteStep.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/SendQuoteValidationStep.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/VehicleDataStep.java" charset="windows-1252" />
+  </component>
+</project>
